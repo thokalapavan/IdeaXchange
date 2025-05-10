@@ -16,7 +16,7 @@ function LoginPage() {
     <section className="login-page">
       <div className="auth-overlay">
         <header>
-          <h1>LOGIN AT FORUM APP</h1>
+          <h1>LOGIN to IdeaXchange</h1>
         </header>
         <article>
           <LoginInput onLogin={onLogin} />

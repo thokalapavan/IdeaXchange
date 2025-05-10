@@ -17,7 +17,7 @@ function RegisterPage() {
     <section className="register-page">
       <div className="auth-overlay">
         <header>
-          REGISTER TO ACCESS FORUM APP
+          REGISTER TO ACCESS IdeaXchange
         </header>
         <article>
           <RegisterInput onRegister={onRegister} />
